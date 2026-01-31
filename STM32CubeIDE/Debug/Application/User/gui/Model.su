@@ -1,0 +1,4 @@
+C:/TouchGFXProjects/MyApplication/TouchGFX/gui/src/model/Model.cpp:7:1:Model::Model()	0	static
+C:/TouchGFXProjects/MyApplication/TouchGFX/gui/src/model/Model.cpp:12:6:void Model::tick()	16	static
+C:/TouchGFXProjects/MyApplication/TouchGFX/gui/src/model/Model.cpp:22:6:void Model::saveScore(int)	0	static
+C:/TouchGFXProjects/MyApplication/TouchGFX/gui/src/model/Model.cpp:30:5:int Model::getHighScore()	0	static

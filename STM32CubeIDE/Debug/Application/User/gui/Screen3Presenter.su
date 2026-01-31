@@ -1,0 +1,9 @@
+../../TouchGFX/gui/include/gui/screen3_screen/Screen3Presenter.hpp:40:10:Screen3Presenter::~Screen3Presenter()	0	static
+C:/TouchGFXProjects/MyApplication/TouchGFX/gui/src/screen3_screen/Screen3Presenter.cpp:11:6:virtual void Screen3Presenter::activate()	0	static
+../../TouchGFX/gui/include/gui/screen3_screen/Screen3Presenter.hpp:40:10:virtual Screen3Presenter::~Screen3Presenter()	8	static
+C:/TouchGFXProjects/MyApplication/TouchGFX/gui/src/screen3_screen/Screen3Presenter.cpp:31:6:virtual void Screen3Presenter::moveShip(uint8_t)	0	static
+../../TouchGFX/gui/include/gui/screen3_screen/Screen3Presenter.hpp:40:10:virtual void* Screen3Presenter::_ZThn4_N16Screen3PresenterD1Ev()	0	static
+C:/TouchGFXProjects/MyApplication/TouchGFX/gui/src/screen3_screen/Screen3Presenter.cpp:5:1:Screen3Presenter::Screen3Presenter(Screen3View&)	0	static
+C:/TouchGFXProjects/MyApplication/TouchGFX/gui/src/screen3_screen/Screen3Presenter.cpp:21:6:void Screen3Presenter::saveScore(int)	0	static
+C:/TouchGFXProjects/MyApplication/TouchGFX/gui/src/screen3_screen/Screen3Presenter.cpp:26:5:int Screen3Presenter::getHighScore()	0	static
+C:/TouchGFXProjects/MyApplication/TouchGFX/gui/src/screen3_screen/Screen3Presenter.cpp:36:6:void Screen3Presenter::gotoMenu()	8	static

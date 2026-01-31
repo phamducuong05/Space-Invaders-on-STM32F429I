@@ -1,0 +1,11 @@
+Debug/
+Release/
+.settings/
+.project
+.cproject
+*.launch
+.build/
+*.elf
+*.bin
+*.hex
+*.map

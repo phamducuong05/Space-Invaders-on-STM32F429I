@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.26.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_PZX4" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Your Score: &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_YYYD" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">Survival&#10;</Translation>
+      </Text>
+      <Text Id="__SingleUse_VW4Y" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">High Score: &lt;value&gt;&#10;</Translation>
+      </Text>
+      <Text Id="__SingleUse_2LPI" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_DT8B" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">GAME OVER</Translation>
+      </Text>
+      <Text Id="__SingleUse_BY90" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Score: &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_TCF2" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">Adventure</Translation>
+      </Text>
+      <Text Id="__SingleUse_Y8CS" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">GAME OVER</Translation>
+      </Text>
+      <Text Id="__SingleUse_QMJ4" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">1</Translation>
+      </Text>
+      <Text Id="__SingleUse_AKBG" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">MISSION COMPLETE</Translation>
+      </Text>
+      <Text Id="__SingleUse_AXEK" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">LEVEL UP !</Translation>
+      </Text>
+      <Text Id="__SingleUse_43M0" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">Level: &lt;value&gt;</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography1" Font="timesbd.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+  </Typographies>
+</TextDatabase>
